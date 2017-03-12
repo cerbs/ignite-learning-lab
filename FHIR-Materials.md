@@ -49,3 +49,4 @@ Throughout the exercises, you may be asked to find data for specific people. Her
 * [Exercise 11](FHIR-Exercise-11)
 * [Exercise 12](FHIR-Exercise-12)
 * [Exercise 13](FHIR-Exercise-13)
+* [Exercise 14](FHIR-Exercise-14)
