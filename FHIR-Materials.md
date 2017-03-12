@@ -11,7 +11,9 @@ If you do not already have a favorite rest client, we recommend Postman: <https:
 
 ## Useful Links
 Code: <https://code.cerner.com/> (EHR API)
+
 FHIR Documentation: <http://fhir.cerner.com/>
+
 HL7 DSTU 2 Documentation: <http://hl7.org/fhir/dstu2/index.html>
 
 ## Sandbox Server
