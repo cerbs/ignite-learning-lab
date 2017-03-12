@@ -7,8 +7,14 @@ There are very few tools required to complete the lab exercises:
 
 If you do not already have a favorite rest client, we recommend Postman: <https://www.getpostman.com/> 
 
-# Sandbox Server
+# Resources
 
+## Useful Links
+Code: <https://code.cerner.com/> (EHR API)
+FHIR Documentation: <http://fhir.cerner.com/>
+HL7 DSTU 2 Documentation: <http://hl7.org/fhir/dstu2/index.html>
+
+## Sandbox Server
 The FHIR server we will be working with today is our public sandbox server: 
 
     https://fhir-open.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca/
