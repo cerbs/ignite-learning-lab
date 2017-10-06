@@ -2,6 +2,12 @@
 
 Please refer to the [FHIR Materials](FHIR-Materials) page for setup and other lab context.
 
+## Sandbox Server
+
+The FHIR server we will be working with today is our public sandbox server:
+
+    https://fhir-open.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca/
+
 ## Test Patients
 
 Throughout the exercises, you may be asked to find data for specific people. Here are the test patients we will be using today:
