@@ -28,4 +28,18 @@ Throughout the exercises, you may be asked to write data for specific people. He
 
 # Exercises
 
-* TODO
+* [Exercise 1](FHIR-Writes-Exercise-1)
+* [Exercise 2](FHIR-Writes-Exercise-2)
+* [Exercise 3](FHIR-Writes-Exercise-3)
+* [Exercise 4](FHIR-Writes-Exercise-4)
+* [Exercise 5](FHIR-Writes-Exercise-5)
+* [Exercise 6](FHIR-Writes-Exercise-6)
+* [Exercise 7](FHIR-Writes-Exercise-7)
+* [Exercise 8](FHIR-Writes-Exercise-8)
+* [Exercise 9](FHIR-Writes-Exercise-9)
+* [Exercise 10](FHIR-Writes-Exercise-10)
+* [Exercise 11](FHIR-Writes-Exercise-11)
+* [Exercise 12](FHIR-Writes-Exercise-12)
+* [Exercise 13](FHIR-Writes-Exercise-13)
+* [Exercise 14](FHIR-Writes-Exercise-14)
+* [Exercise 15](FHIR-Writes-Exercise-15)
