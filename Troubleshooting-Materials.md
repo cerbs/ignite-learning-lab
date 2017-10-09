@@ -31,5 +31,3 @@ Wikipedia Response Status Documentation: <https://en.wikipedia.org/wiki/List_of_
 * [Exercise 5](Troubleshooting-Exercise-5)
 * [Exercise 6](Troubleshooting-Exercise-6)
 * [Exercise 7](Troubleshooting-Exercise-7)
-* [Exercise 8](Troubleshooting-Exercise-8)
-* [Exercise 9](Troubleshooting-Exercise-9)
