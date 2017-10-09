@@ -1,5 +1,5 @@
 # Exercise 12 - Base64 Decoding
 
-Using https://www.base64decode.org/, Base64 decode the following content to identify the body section of the xhtml page
+Using https://www.base64decode.org/, Base64 decode the following content to identify the body section of the XHTML page
 
 > PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgU3RyaWN0Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXN0cmljdC5kdGQiPjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj48aGVhZD48dGl0bGU+Y29kZSBMZWFybmluZyBMYWI8L3RpdGxlPjwvaGVhZD48Ym9keT5JJ20gb24gRkhJUiE8L2JvZHk+PC9odG1sPg==
