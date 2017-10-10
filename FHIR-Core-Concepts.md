@@ -2,6 +2,8 @@
 
 Please refer to the [FHIR Materials](FHIR-Materials) page for setup and other lab context.
 
+Slides: https://github.com/cerner/ignite-learning-lab/blob/master/FHIR/IgniteFHIRCombined-2017-10-04.pdf
+
 ## Sandbox Server
 
 The FHIR server we will be working with today is our public sandbox server:
