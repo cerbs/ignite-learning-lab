@@ -2,6 +2,8 @@
 
 Please refer to the [FHIR Materials](FHIR-Materials) page for setup and other lab context.
 
+Slides: https://github.com/cerner/ignite-learning-lab/blob/master/FHIR/Writing%20Data%20in%20FHIR.pdf
+
 ## Prerequisites
 
 1. Complete the [FHIR Core Concepts](FHIR-Core-Concepts) labs
