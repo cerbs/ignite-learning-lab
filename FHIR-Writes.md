@@ -16,9 +16,7 @@ The FHIR server we will be working with today is our public sandbox server:
 
 ## Token Generation
 
-Use the OAuth 2.0 Demo Client, per the Authorization labs above:
-
-    https://authz-demo.sandboxcerner.com/client/demo/?iss=https://fhir-ehr.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca
+If you do not have a registered application, you can use the [OAuth 2.0 Demo Client](https://authz-demo.sandboxcerner.com/client/demo/?iss=https://fhir-ehr.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca), per the Authorization labs above
 
 ## Test Patients
 
