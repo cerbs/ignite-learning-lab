@@ -43,3 +43,6 @@ Throughout the exercises, you may be asked to write data for specific people. He
 * [Exercise 13](FHIR-Writes-Exercise-13)
 * [Exercise 14](FHIR-Writes-Exercise-14)
 * [Exercise 15](FHIR-Writes-Exercise-15)
+
+## Guided Lab
+* [Guided Lab](FHIR-Writes-Guided-Lab)
